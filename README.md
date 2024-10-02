@@ -1,7 +1,7 @@
 Welcome to my GitHub profile! I'm Srushti Potdar, a passionate computer engineering student with skills in web and mobile development, and an interest in AI/ML projects. I aim to leverage technology to solve real-world problems and contribute to innovative projects.
 
 ## 📚 About Me
-- 💻 **Student** of Computer Engineering with a CGPA of 8.96 (3rd Semester).
+- 💻 **Student** of Computer Engineering with a CGPA of 9.00 (4th Semester).
 - 👩‍💻 **Skills**: Java, Python, HTML, CSS, JavaScript, SQL.
 - 🎯 Actively seeking challenging opportunities to apply my skills and grow professionally.
 - 📍 Based in Virar, 401303, India.
